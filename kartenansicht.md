@@ -1,11 +1,11 @@
 # Stadtführung durch Merzig
 
 ::: map 
-@marker[Saline]()
-@marker[Halfenhaus]()
-@marker[Historisches Stadthaus]()
-@marker[St. Peter]()
-@marker[Feinmechanisches Museum Fellenbergmühle ]()
+@marker[Saline](49.44283751267788, 6.63296624286212)
+@marker[Halfenhaus](49.442886344354854, 6.635562621010321)
+@marker[Historisches Stadthaus](49.44277472902174, 6.637279234662023)
+@marker[St. Peter](49.443242116538194, 6.642225227838047)
+@marker[Feinmechanisches Museum Fellenbergmühle](49.44539064660704, 6.643308840389055)
 @path(merzig-city-tour.gpx)
 :::
 
