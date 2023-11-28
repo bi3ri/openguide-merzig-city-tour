@@ -6,3 +6,4 @@ Das Gradierwerk im Stadtpark Merzig, auch als "Saline" bekannt, wurde nach seine
 
 Das Gradierwerk dient als Ort der Entspannung im Merziger Naherholungsgebiet und bietet einen inneren und äußeren Ruhebereich. Im Zentrum der Anlage steht das Bietzener Heilwasser, das über Schwarzdorn-Reisigbündel fließt und dabei zerstäubt wird. Die so entstehende feine Wassernebelung wirkt besonders wohltuend bei Atemwegserkrankungen. Das Wasser ist schadstofffrei und mit über 4.149 mg/l Mineralstoffen besonders reichhaltig.
 
+@[Zurück zur Kartenansicht!](kartenansicht.md)

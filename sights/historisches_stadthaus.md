@@ -9,3 +9,5 @@ Das Stadthaus, inspiriert von französischen Manoir-Bauten des 16. Jahrhunderts,
 Heute dient das Stadthaus als Verwaltungsgebäude, beherbergt das Trauzimmer und birgt eine einzigartige Sammlung von Terrakotten. Diese 16 Stücke, ursprünglich für das Schloss Herrenchiemsee vorgesehen, stammen aus der Terrakotta-Fabrikation des Merziger Unternehmens Villeroy & Boch. Die Terrakotten, die fast den gesamten Fassadenschmuck des bayerischen Königsschlosses ausmachten, zeugen von der Fähigkeit, Naturstein täuschend echt nachzubilden. Sie waren weltweit für repräsentative Bauwerke gefragt.
 
 Nach dem Tod von Ludwig II. im Jahr 1886 und dem darauffolgenden Baustopp, gerieten die Terrakotten in Vergessenheit. Erst Ende 1997 gelang es der Kreisstadt Merzig und Villeroy & Boch, einen Teil dieser Kunstwerke als Dauerleihgabe wieder nach Merzig zu holen. Diese Terrakotten, die über 100 Jahre in den Kellergewölben von Herrenchiemsee lagerten, sind nun wieder in Merzig und zeugen vom Können ihrer Schöpfer.
+
+@[Zurück zur Kartenansicht!](kartenansicht.md)
