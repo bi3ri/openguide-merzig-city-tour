@@ -3,7 +3,7 @@
 
 ___
 
-![Merzig Übersicht](media/merzig.jpeg)
+![Merzig Übersicht](media/merzig.jpg)
 
 ## **Einführung:**
 
